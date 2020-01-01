@@ -1,0 +1,131 @@
+C:\Users\zakaria\Documents\Visual Studio 2015\Projects\Projet fin formation\WebApplication1\WebApplication1\bin\ApplicationInsights.config
+C:\Users\zakaria\Documents\Visual Studio 2015\Projects\Projet fin formation\WebApplication1\WebApplication1\bin\roslyn\csc.exe
+C:\Users\zakaria\Documents\Visual Studio 2015\Projects\Projet fin formation\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\zakaria\Documents\Visual Studio 2015\Projects\Projet fin formation\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\zakaria\Documents\Visual Studio 2015\Projects\Projet fin formation\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\zakaria\Documents\Visual Studio 2015\Projects\Projet fin formation\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\zakaria\Documents\Visual Studio 2015\Projects\Projet fin formation\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\zakaria\Documents\Visual Studio 2015\Projects\Projet fin formation\WebApplication1\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\zakaria\Documents\Visual Studio 2015\Projects\Projet fin formation\WebApplication1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\zakaria\Documents\Visual Studio 2015\Projects\Projet fin formation\WebApplication1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\zakaria\Documents\Visual Studio 2015\Projects\Projet fin formation\WebApplication1\WebApplication1\bin\roslyn\vbc.exe
+C:\Users\zakaria\Documents\Visual Studio 2015\Projects\Projet fin formation\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe
+C:\Users\zakaria\Documents\Visual Studio 2015\Projects\Projet fin formation\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\zakaria\Documents\Visual Studio 2015\Projects\Projet fin formation\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\zakaria\Documents\Visual Studio 2015\Projects\Projet fin formation\WebApplication1\WebApplication1\bin\WebApplication1.dll
+C:\Users\zakaria\Documents\Visual Studio 2015\Projects\Projet fin formation\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+C:\Users\zakaria\Documents\Visual Studio 2015\Projects\Projet fin formation\WebApplication1\WebApplication1\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\zakaria\Documents\Visual Studio 2015\Projects\Projet fin formation\WebApplication1\WebApplication1\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\zakaria\Documents\Visual Studio 2015\Projects\Projet fin formation\WebApplication1\WebApplication1\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\zakaria\Documents\Visual Studio 2015\Projects\Projet fin formation\WebApplication1\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\zakaria\Documents\Visual Studio 2015\Projects\Projet fin formation\WebApplication1\WebApplication1\bin\Microsoft.AI.Web.dll
+C:\Users\zakaria\Documents\Visual Studio 2015\Projects\Projet fin formation\WebApplication1\WebApplication1\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\zakaria\Documents\Visual Studio 2015\Projects\Projet fin formation\WebApplication1\WebApplication1\bin\Microsoft.ApplicationInsights.dll
+C:\Users\zakaria\Documents\Visual Studio 2015\Projects\Projet fin formation\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\zakaria\Documents\Visual Studio 2015\Projects\Projet fin formation\WebApplication1\WebApplication1\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\zakaria\Documents\Visual Studio 2015\Projects\Projet fin formation\WebApplication1\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\zakaria\Documents\Visual Studio 2015\Projects\Projet fin formation\WebApplication1\WebApplication1\bin\Microsoft.AI.Web.xml
+C:\Users\zakaria\Documents\Visual Studio 2015\Projects\Projet fin formation\WebApplication1\WebApplication1\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\zakaria\Documents\Visual Studio 2015\Projects\Projet fin formation\WebApplication1\WebApplication1\bin\Microsoft.ApplicationInsights.xml
+C:\Users\zakaria\Documents\Visual Studio 2015\Projects\Projet fin formation\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\zakaria\Documents\Visual Studio 2015\Projects\Projet fin formation\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+C:\Users\zakaria\Documents\Visual Studio 2015\Projects\Projet fin formation\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\zakaria\Documents\Visual Studio 2015\Projects\Projet fin formation\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\zakaria\Desktop\projet de fin formation\WebApplication1\WebApplication1\bin\ApplicationInsights.config
+C:\Users\zakaria\Desktop\projet de fin formation\WebApplication1\WebApplication1\bin\roslyn\csc.exe
+C:\Users\zakaria\Desktop\projet de fin formation\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\zakaria\Desktop\projet de fin formation\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\zakaria\Desktop\projet de fin formation\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\zakaria\Desktop\projet de fin formation\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\zakaria\Desktop\projet de fin formation\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\zakaria\Desktop\projet de fin formation\WebApplication1\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\zakaria\Desktop\projet de fin formation\WebApplication1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\zakaria\Desktop\projet de fin formation\WebApplication1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\zakaria\Desktop\projet de fin formation\WebApplication1\WebApplication1\bin\roslyn\vbc.exe
+C:\Users\zakaria\Desktop\projet de fin formation\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe
+C:\Users\zakaria\Desktop\projet de fin formation\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\zakaria\Desktop\projet de fin formation\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\zakaria\Desktop\projet de fin formation\WebApplication1\WebApplication1\bin\WebApplication1.dll
+C:\Users\zakaria\Desktop\projet de fin formation\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+C:\Users\zakaria\Desktop\projet de fin formation\WebApplication1\WebApplication1\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\zakaria\Desktop\projet de fin formation\WebApplication1\WebApplication1\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\zakaria\Desktop\projet de fin formation\WebApplication1\WebApplication1\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\zakaria\Desktop\projet de fin formation\WebApplication1\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\zakaria\Desktop\projet de fin formation\WebApplication1\WebApplication1\bin\Microsoft.AI.Web.dll
+C:\Users\zakaria\Desktop\projet de fin formation\WebApplication1\WebApplication1\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\zakaria\Desktop\projet de fin formation\WebApplication1\WebApplication1\bin\Microsoft.ApplicationInsights.dll
+C:\Users\zakaria\Desktop\projet de fin formation\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\zakaria\Desktop\projet de fin formation\WebApplication1\WebApplication1\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\zakaria\Desktop\projet de fin formation\WebApplication1\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\zakaria\Desktop\projet de fin formation\WebApplication1\WebApplication1\bin\Microsoft.AI.Web.xml
+C:\Users\zakaria\Desktop\projet de fin formation\WebApplication1\WebApplication1\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\zakaria\Desktop\projet de fin formation\WebApplication1\WebApplication1\bin\Microsoft.ApplicationInsights.xml
+C:\Users\zakaria\Desktop\projet de fin formation\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\zakaria\Desktop\projet de fin formation\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+C:\Users\zakaria\Desktop\projet de fin formation\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\zakaria\Desktop\projet de fin formation\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\zakaria\Desktop\projet de fin formation yasser hanzif et Zakaria Kamili\WebApplication1\WebApplication1\bin\ApplicationInsights.config
+C:\Users\zakaria\Desktop\projet de fin formation yasser hanzif et Zakaria Kamili\WebApplication1\WebApplication1\bin\roslyn\csc.exe
+C:\Users\zakaria\Desktop\projet de fin formation yasser hanzif et Zakaria Kamili\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\zakaria\Desktop\projet de fin formation yasser hanzif et Zakaria Kamili\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\zakaria\Desktop\projet de fin formation yasser hanzif et Zakaria Kamili\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\zakaria\Desktop\projet de fin formation yasser hanzif et Zakaria Kamili\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\zakaria\Desktop\projet de fin formation yasser hanzif et Zakaria Kamili\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\zakaria\Desktop\projet de fin formation yasser hanzif et Zakaria Kamili\WebApplication1\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\zakaria\Desktop\projet de fin formation yasser hanzif et Zakaria Kamili\WebApplication1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\zakaria\Desktop\projet de fin formation yasser hanzif et Zakaria Kamili\WebApplication1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\zakaria\Desktop\projet de fin formation yasser hanzif et Zakaria Kamili\WebApplication1\WebApplication1\bin\roslyn\vbc.exe
+C:\Users\zakaria\Desktop\projet de fin formation yasser hanzif et Zakaria Kamili\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe
+C:\Users\zakaria\Desktop\projet de fin formation yasser hanzif et Zakaria Kamili\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\zakaria\Desktop\projet de fin formation yasser hanzif et Zakaria Kamili\WebApplication1\WebApplication1\bin\WebApplication1.dll
+C:\Users\zakaria\Desktop\projet de fin formation yasser hanzif et Zakaria Kamili\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+C:\Users\zakaria\Desktop\projet de fin formation yasser hanzif et Zakaria Kamili\WebApplication1\WebApplication1\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\zakaria\Desktop\projet de fin formation yasser hanzif et Zakaria Kamili\WebApplication1\WebApplication1\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\zakaria\Desktop\projet de fin formation yasser hanzif et Zakaria Kamili\WebApplication1\WebApplication1\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\zakaria\Desktop\projet de fin formation yasser hanzif et Zakaria Kamili\WebApplication1\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\zakaria\Desktop\projet de fin formation yasser hanzif et Zakaria Kamili\WebApplication1\WebApplication1\bin\Microsoft.AI.Web.dll
+C:\Users\zakaria\Desktop\projet de fin formation yasser hanzif et Zakaria Kamili\WebApplication1\WebApplication1\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\zakaria\Desktop\projet de fin formation yasser hanzif et Zakaria Kamili\WebApplication1\WebApplication1\bin\Microsoft.ApplicationInsights.dll
+C:\Users\zakaria\Desktop\projet de fin formation yasser hanzif et Zakaria Kamili\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\zakaria\Desktop\projet de fin formation yasser hanzif et Zakaria Kamili\WebApplication1\WebApplication1\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\zakaria\Desktop\projet de fin formation yasser hanzif et Zakaria Kamili\WebApplication1\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\zakaria\Desktop\projet de fin formation yasser hanzif et Zakaria Kamili\WebApplication1\WebApplication1\bin\Microsoft.AI.Web.xml
+C:\Users\zakaria\Desktop\projet de fin formation yasser hanzif et Zakaria Kamili\WebApplication1\WebApplication1\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\zakaria\Desktop\projet de fin formation yasser hanzif et Zakaria Kamili\WebApplication1\WebApplication1\bin\Microsoft.ApplicationInsights.xml
+C:\Users\zakaria\Desktop\projet de fin formation yasser hanzif et Zakaria Kamili\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\zakaria\Desktop\projet de fin formation yasser hanzif et Zakaria Kamili\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+C:\Users\zakaria\Desktop\projet de fin formation yasser hanzif et Zakaria Kamili\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\zakaria\Desktop\projet de fin formation yasser hanzif et Zakaria Kamili\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+E:\projet de fin formation yasser hanzif et Zakaria Kamili\WebApplication1\WebApplication1\bin\ApplicationInsights.config
+E:\projet de fin formation yasser hanzif et Zakaria Kamili\WebApplication1\WebApplication1\bin\roslyn\csc.exe
+E:\projet de fin formation yasser hanzif et Zakaria Kamili\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\projet de fin formation yasser hanzif et Zakaria Kamili\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\projet de fin formation yasser hanzif et Zakaria Kamili\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\projet de fin formation yasser hanzif et Zakaria Kamili\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\projet de fin formation yasser hanzif et Zakaria Kamili\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\projet de fin formation yasser hanzif et Zakaria Kamili\WebApplication1\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\projet de fin formation yasser hanzif et Zakaria Kamili\WebApplication1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+E:\projet de fin formation yasser hanzif et Zakaria Kamili\WebApplication1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+E:\projet de fin formation yasser hanzif et Zakaria Kamili\WebApplication1\WebApplication1\bin\roslyn\vbc.exe
+E:\projet de fin formation yasser hanzif et Zakaria Kamili\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe
+E:\projet de fin formation yasser hanzif et Zakaria Kamili\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+E:\projet de fin formation yasser hanzif et Zakaria Kamili\WebApplication1\WebApplication1\bin\WebApplication1.dll
+E:\projet de fin formation yasser hanzif et Zakaria Kamili\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+E:\projet de fin formation yasser hanzif et Zakaria Kamili\WebApplication1\WebApplication1\bin\Microsoft.AI.Agent.Intercept.dll
+E:\projet de fin formation yasser hanzif et Zakaria Kamili\WebApplication1\WebApplication1\bin\Microsoft.AI.DependencyCollector.dll
+E:\projet de fin formation yasser hanzif et Zakaria Kamili\WebApplication1\WebApplication1\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\projet de fin formation yasser hanzif et Zakaria Kamili\WebApplication1\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\projet de fin formation yasser hanzif et Zakaria Kamili\WebApplication1\WebApplication1\bin\Microsoft.AI.Web.dll
+E:\projet de fin formation yasser hanzif et Zakaria Kamili\WebApplication1\WebApplication1\bin\Microsoft.AI.WindowsServer.dll
+E:\projet de fin formation yasser hanzif et Zakaria Kamili\WebApplication1\WebApplication1\bin\Microsoft.ApplicationInsights.dll
+E:\projet de fin formation yasser hanzif et Zakaria Kamili\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\projet de fin formation yasser hanzif et Zakaria Kamili\WebApplication1\WebApplication1\bin\Microsoft.AI.DependencyCollector.xml
+E:\projet de fin formation yasser hanzif et Zakaria Kamili\WebApplication1\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\projet de fin formation yasser hanzif et Zakaria Kamili\WebApplication1\WebApplication1\bin\Microsoft.AI.Web.xml
+E:\projet de fin formation yasser hanzif et Zakaria Kamili\WebApplication1\WebApplication1\bin\Microsoft.AI.WindowsServer.xml
+E:\projet de fin formation yasser hanzif et Zakaria Kamili\WebApplication1\WebApplication1\bin\Microsoft.ApplicationInsights.xml
+E:\projet de fin formation yasser hanzif et Zakaria Kamili\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\projet de fin formation yasser hanzif et Zakaria Kamili\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+E:\projet de fin formation yasser hanzif et Zakaria Kamili\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+E:\projet de fin formation yasser hanzif et Zakaria Kamili\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+E:\projet de fin formation yasser hanzif et Zakaria Kamili\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
